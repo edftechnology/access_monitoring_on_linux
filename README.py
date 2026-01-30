@@ -23,7 +23,11 @@
 # 
 # Para configurar/instalar/usar o `auditd` no `Linux Ubuntu`, você pode seguir estes passos:
 # 
-# 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`    
+# 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando:
+# 
+#     ```bash
+#     Ctrl + Alt + T
+#     ```    
 
 # 2. Certifique-se de que seu sistema esteja limpo e atualizado.
 # 
@@ -75,7 +79,11 @@
 # 
 # Para configurar/instalar o `auditd` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 # 
-# 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
+# 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando:
+# 
+#     ```bash
+#     Ctrl + Alt + T
+#     ```
 # 
 # 2. Digite o seguinte comando e pressione `Enter`:
 # 
